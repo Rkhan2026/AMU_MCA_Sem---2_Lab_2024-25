@@ -1,0 +1,3 @@
+2025-04-13 00:48:50,203 INFO w.Problem2 [main] Successful closure of the database connection, regardless of whether an exception occurred or not.
+2025-04-13 00:51:45,316 ERROR w.Problem3 [main] Custom DatabaseConnectionException: Problem With Database Connection
+2025-04-13 00:51:45,318 INFO w.Problem3 [main] Successful closure of the database connection, regardless of whether an exception occurred or not.
